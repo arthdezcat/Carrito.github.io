@@ -1,5 +1,5 @@
 const productos = [
-    { id: 1, nombre: 'Laptop Dell Modelo AnicronX1', precio: 22500, imagen:'imagen/laptop.jpg', detalle: 'Procesador de tercera generación Intel® Core™ i3-3217U (caché de 3 MB, 1,8 GHz), Windows 11 Pro, Gráficos HD 4000 Intel® (para procesadores de 3ra generación Intel® CoreTM i3, i5, i7), Memoria DDR3 compartida de dos canales de 1600 MHz de 8 GB'},
+    { id: 1, nombre: 'Laptop Dell Modelo AnicronX1', precio: 22500, imagen:'imagen/Laptop.jpg', detalle: 'Procesador de tercera generación Intel® Core™ i3-3217U (caché de 3 MB, 1,8 GHz), Windows 11 Pro, Gráficos HD 4000 Intel® (para procesadores de 3ra generación Intel® CoreTM i3, i5, i7), Memoria DDR3 compartida de dos canales de 1600 MHz de 8 GB'},
     { id: 2, nombre: 'Monitor Gamer Dell 27 pulgadas', precio: 6500, imagen:'imagen/MonitorG.jpg', detalle: 'Tamaño de la vista diagonal (pulgadas) 34.18, Proporción de aspecto 21:09, Resolución 3440 x 1440 at 175Hz, Conectividad HDMI; DP, Tipo de Panel Quantum Dot OLED Antireflection'},
     { id: 3, nombre: 'Impresora 3D Marca Genius', precio: 15000, imagen:'imagen/Impresora3D.jpg', detalle: 'Material	Aluminio, Color	Negro, Dimensiones del producto	30D x 30W x 40H centimeters, Peso del producto	12,9 Kilogramos'},
     { id: 4, nombre: 'Setup de Desarrollo (Mesa y luces)', precio: 12200, imagen:'imagen/setup.jpg', detalle: ''},
